@@ -1,0 +1,23 @@
+Follow this Path to run Deployment 
+
+First step 
+
+Open the App.py file and run on your machine.
+
+second step
+
+Then to connect this file to the webpage open anaconda prompt 
+and then open the file location and then put 
+python app.py to get the HTTP link 
+
+Third Step 
+
+When you got that link open the webpage name cancer Prediction
+and then you are able to see the website.
+now you can upload the image and got the prediction.
+
+------------------------------------------------
+
+
+
+ 
